@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  InfoWebiOS
 //
-//  Created by Chhan Sophearith on 7/12/23...
+//  Created by Chhan Sophearith on 7/12/23.......
 //
 
 import Foundation
